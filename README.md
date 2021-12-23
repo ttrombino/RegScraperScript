@@ -17,5 +17,7 @@ This script was ultimately successful in enrolling me in an important course.
 Using Selenium, the script runs 24/7 on a separate machine. Every 2 seconds a request is made to the registrar's website to load their page and analyze the enrollment level of a certain course. If a seat has opened, 
 the script logs into the student's registration account and registers them for the desired class and discussion section. If an enrollment attempt is made, a text message is sent to the student notifying them of the attempt 
 along with the enrollment numbers received. A text message notification is also sent if the script crashes at any point throughout the day. 
+
+
 ![notification](txtnotification.jpg "Text Notification")
 
